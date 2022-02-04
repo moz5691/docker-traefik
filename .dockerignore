@@ -1,0 +1,10 @@
+img/
+.idea
+.DS_Store
+*.md
+__pycache__/
+.git
+.cache
+.gitignore
+.vscode
+
